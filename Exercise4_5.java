@@ -8,7 +8,8 @@ public class Exercise4_5 {
             System.out.println("!");
         }
     }
-
+int bizz = 5;
+int buzz = 2;
     public static void main(String[] args) {
         int bizz = 5;
         int buzz = 2;
@@ -25,3 +26,13 @@ public class Exercise4_5 {
         System.out.println("any " + strangStrung + "more ");
     }
 }
+just for
+any not more 
+It's breakfast 
+!+-----------------------+
+| ping("not ")          |
++-----------------------+
+| zoop("just for", 5)   |
++-----------------------+
+| main                  |
++-----------------------+
